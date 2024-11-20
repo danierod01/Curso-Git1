@@ -7,3 +7,6 @@ Blanco
 
 Verde
 Rojo
+
+Granate
+Amarillo
