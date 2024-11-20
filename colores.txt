@@ -3,4 +3,7 @@ Amarillo
 Rojo
 
 Rojo
-Blnaco
+Blanco
+
+Verde
+Rojo
